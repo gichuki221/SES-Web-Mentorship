@@ -1,0 +1,40 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+}
+
+/* About section styles */
+#about {
+    background-color: #f0f0f0;
+}
+
+/* Contact section styles */
+#contact {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Add more styles as needed */
+img{
+    border-radius: 10%%;
+}
